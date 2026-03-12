@@ -148,6 +148,7 @@ Every contribution should respect these:
 3. Check `docs/BACKLOG.md` for the active feature list
 4. Look at `docs/decisions/` for past architectural decisions
 5. Open an issue or draft a Feature Doc PR
+6. Sign the [CLA](CLA.md) on your first PR (the bot will guide you)
 
 ### Code Style (When You Do Write Code)
 
@@ -304,6 +305,7 @@ Review PR 时的优先级：
 3. 看 `docs/BACKLOG.md` 了解当前活跃的功能列表
 4. 翻翻 `docs/decisions/` 看看过去的架构决策
 5. 开一个 Issue 或直接提一个 Feature Doc 的 PR
+6. 首次提 PR 时签署 [CLA](CLA.md)（bot 会自动引导）
 
 ### 代码规范（当你确实要写代码时）
 
